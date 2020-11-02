@@ -1,4 +1,4 @@
-## java编写rabbitMQ
+## java编写RabbitMQ
 **五种工作模式**
 * 简单模式
     * 点对点（没有交换机）
